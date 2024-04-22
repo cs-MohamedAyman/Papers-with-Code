@@ -22,7 +22,7 @@ Research Papers for computer science researchers.
 <a href="/arxiv/README.md"><img align="right" width="80" src="/logos/arxiv.png"></img></a>
 <br>
 
-## [`arXiv`](/arXiv/README.md)
+## [`arXiv`](/arxiv/README.md)
 
 <a href="/science-direct/README.md"><img align="right" width="80" src="/logos/science-direct.png"></img></a>
 <br>
